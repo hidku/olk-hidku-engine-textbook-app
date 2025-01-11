@@ -1,5 +1,5 @@
-site_name: Hidku Platform Playbook
-site_url:  https://platform.hidku.com
+site_name: Hidku Engine Textbook
+site_url:  https://engine.hidku.com
 theme:
   name: material
   custom_dir: docs/overrides
